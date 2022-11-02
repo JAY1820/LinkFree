@@ -1,0 +1,40 @@
+{
+    "name": "JAYMIN VALAKI",
+    "type": "personal",
+    "bio": " DEVELOPER || FREELENCEER || JAVASCRIPT",
+    "avatar": "https://github.com/JAY1820.png",
+    "links": [
+      {
+        "name": "Follow me on GitHub",
+        "url": "https://github.com/JAY1820/",
+        "icon": "github"
+      },
+      {
+        "name": "Follow me on Twitter",
+        "url": "https://twitter.com/IMJAYMIN18",
+        "icon": "twitter"
+      },
+      {
+        "name": "Connect with me on LinkedIn",
+        "url": "http://linkedin.com/in/jay-patel-40abab219",
+        "icon": "linkedin"
+      }
+    ],
+   
+      {
+        "title": "Started data structure and algorithem",
+        "date": "November 2022",
+        "icon": "youtube",
+        "color": "#3a3240",
+        "description": "Began development on Datastructure and algorithem using lanuage c++.",
+      },
+      {
+        "title": "Learning to Code!",
+        "date": "April 2020",
+        "icon": "github",
+        "color": "blue",
+        "description": "Started learning to code with the freeCodeCamp ",
+        
+      }
+    ]
+  }
